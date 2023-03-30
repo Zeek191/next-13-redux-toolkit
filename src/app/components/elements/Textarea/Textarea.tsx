@@ -1,3 +1,4 @@
+'use client';
 export default function Textarea(props: JSX.IntrinsicElements['textarea']) {
   return (
     <textarea
