@@ -1,3 +1,4 @@
+'use client';
 import clsx from 'clsx';
 
 export default function Button({ children, type = 'button', onClick, className }: JSX.IntrinsicElements['button']) {
